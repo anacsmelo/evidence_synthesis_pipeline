@@ -1,0 +1,24 @@
+models:
+  - provider: venice/beta
+    name: qwen/qwen3-next-80b-a3b-instruct:free
+    family: Qwen3
+    parameter_scale: 80B
+    reasoning_model: false
+    max_tokens: 1200
+
+  - provider: modelrun/fp4
+    name: deepseek/deepseek-r1-0528:free
+    family: R1
+    parameter_scale: unknown
+    reasoning_model: true
+    max_tokens: 1200
+
+  - provider: open-inference/int8
+    name: openai/gpt-oss-120b:free
+    family: GPT-OSS
+    parameter_scale: 120B
+    reasoning_model: false
+    max_tokens: 1500
+
+temperature: 0.2
+runs_per_model: 3

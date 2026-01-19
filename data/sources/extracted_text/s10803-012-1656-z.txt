@@ -1,0 +1,322 @@
+--- Page 1 ---
+JAutismDevDisord(2013)43:1151–1156
+DOI10.1007/s10803-012-1656-z
+Sex Differences in the Timing of Identification Among Children
+and Adults with Autism Spectrum Disorders
+Sander Begeer • David Mandell • Bernadette Wijnker-
+Holmes • Stance Venderbosch • Dorien Rem •
+Fred Stekelenburg • Hans M. Koot
+Publishedonline:22September2012
+(cid:2)SpringerScience+BusinessMedia,LLC2012
+Abstract Toexaminedifferencesbysex inthetimingof Introduction
+identificationofindividualswithautismspectrumdisorders
+(ASD),surveydatawerecollectedintheNetherlandsfrom Autism spectrum disorders (ASD) have a consistent male
+2,275 males andfemales with autistic disorder, Asperger’s predominance ranging from 4:1 among individuals with
+syndrome and PDD-NOS. Among participants\18 years autistic disorder to 9:1 among individuals with Asperger’s
+of age, females with Asperger’s syndrome were identified disorder(Fombonne2003;CDC2012).Thereasonsforthe
+later than males. Among participants C18 years of age, higher prevalence ofASD amongmales areunclear.Ithas
+females with autistic disorder were identified later than been suggested that ASD are primarily diagnosed in girls
+males. In more recent years, girls with Asperger’s syn- when accompanied by cognitive impairments (Lord et al.
+drome are diagnosed later than boys, confirming earlier 1982; Wing 1981). Indeed, worse social, communicative
+findings. In adults, the delayed timing of diagnosis in and cognitive functioning has been found in females with
+females with autistic disorder may be related to changing ASDthaninmaleswithASD(McLennanetal.1993;Crick
+practices in diagnosis over time. Strategies for changing and Zahn-Waxler 2003; Carter et al. 2007; Banach et al.
+clinician behaviour to improve recognition of ASD in 2009). However, recent findings increasingly show that
+females are needed. core symptoms of ASD do not differ by sex (Hartley and
+Sikora 2009; Horovitz et al. 2011; Mayes and Calhoun
+Keywords Autism (cid:2) Identification (cid:2) Sex (cid:2) 2011; Rivet and Matson 2011a). Parents also may expect
+Asperger’s syndrome (cid:2) Diagnosis more socially desired behaviour from girls, and pressure
+them more to act in more socially appropriate ways than
+boys. This ‘‘interpreting bias’’ among parents could mask
+S.Begeer(&)
+ASD symptoms in girls (Holtmann et al. 2007). However,
+SchoolofPsychology,UniversityofSydney,Sydney,
+itmayalsoleadtohigherexpectationsofsocialbehaviorin
+NSW2006,Australia
+e-mail:S.Begeer@vu.nl girls, therefore causing earlier concern about their social
+behavior.Furthermore,whilefemalesexmaybeprotective
+S.Begeer(cid:2)H.M.Koot
+againstsocialdisability,perhapsthelaterdiagnosisofASD
+DepartmentofDevelopmentalPsychology,VUUniversity
+reflectsalateronsetratherthanalackofdetectioningirls.
+Amsterdam,Amsterdam,TheNetherlands
+TheidentificationofASDingirlsisthuscomplicatedbya
+D.Mandell number of factors that may lead to delayed or missed
+UniversityofPennsylvania,Philadelphia,PA,USA
+diagnoses. The current study examines sex differences in
+the timing of identification of ASD in males and females.
+B.Wijnker-Holmes(cid:2)S.Venderbosch(cid:2)D.Rem(cid:2)
+F.Stekelenburg Early identification of the diagnosis is crucial for the
+NederlandseVerenigingvoorAutisme,Bilthoven, well being of those affected with ASD. It leads to early
+TheNetherlands
+educationalinterventions,whichhavebeenlinkedtobetter
+long-term prognoses (Lord 1995), and it allows early
+D.Rem
+UtrechtUniversity,Utrecht,TheNetherlands treatmententry,whichisassociatedwiththebesttreatment
+123
+--- Page 2 ---
+1152 JAutismDevDisord(2013)43:1151–1156
+outcomes, specifically during childhood (Lord 1995; Rei- Methods
+chow 2012). Furthermore, it enables the coordination and
+early streamlining of family centered care. Among the Participants
+many benefits of early treatment, better communication
+skills and lower rates of problem behavior are particularly Thesampleincluded2,275children(aged0–18)andadults
+important, but secondary benefits also include a strong (aged 18–85) with ASD (1,843 males (81 %) and 432
+reduction of stress in parents (Baird et al. 2011). Smaller females (19 %)) who returned surveys distributed to the
+studies, ranging from 11 to 150 females with ASD, have members of the Dutch Autism Society (Nederlandse
+not shown sex differences in age of ASD diagnosis (Wig- Vereniging voor Autisme, NVA; see Table 1). Member-
+ginsetal.2006;Ouellette-Kuntzetal.2009;Mandelletal. ship of the NVA represents the general population of
+2005). This finding may result from a lack of statistical individuals with ASD. While we had no explicit informa-
+power. However, even larger studies have demonstrated tion regarding the socio-economic status of the families
+inconsistent findings regarding sex differences in age of that participated in the survey, all 12 provinces of the
+ASD diagnosis. While a study including as many as 491 Netherlands were equally represented in the participating
+females with ASD indicated a later age of diagnosis in sample (NVA 2008; CBS 2008). Furthermore, the distri-
+females than males with ASD (Shattuck et al. 2009), two bution of age, subtypes of ASD, cognitive ability and
+related surveys, including 3,000 girls with ASD from the gender were similar to findings from international epide-
+USA (Fountain et al. 2011) and including 300 girls with miological studies (CDC 2012). Among those who
+ASD from Japan (Fujiwara et al. 2011) found no sex dif- returned surveys (18 % of the total membership), 10 book
+ferencesintheageofdiagnosis.Todate,sexdifferencesin prizes of 50 Euro were allotted.
+ASD diagnosis have not been studied based on large scale Surveys were completed by parents (n = 1,796), next
+samples in Europe. of kin (n = 86) or individuals with ASD themselves
+An additional factor related to delayed ASD identifica- (n = 202). Eight percent of surveys (n = 191) was
+tion is a higher IQ (Shattuck et al. 2009). Higher IQ may excluded from the analyses due to missing information on
+allow individuals with ASD to cognitively compensate for diagnoses,dateofbirth,orageofdiagnosis.Nodifferences
+theirsocialimpairments(Klinetal.2003),thusdecreasing were found between the excluded participants and the rest
+their chances of being detected. However, it could also be of the sample in terms of sex, but excluded participants
+that lower IQ individuals with ASD have more obvious were more likely to have intellectual disability (p\.001).
+delays in language and development, which causes earlier Characteristics of the remaining 2,084 participants are
+detection in this group. Indeed, in toddlers with ASD and presented in Table 1.
+varyingcognitiveabilities,girlsshowedalowerageoffirst
+concernthanboys(Horovitzetal.2012),whileanaverage
+Survey
+or above average IQ decreased the likelihood of an ASD
+diagnosis in girls more than in boys (Giarelli et al. 2010).
+The survey was developed by the Dutch National Autism
+Therearenodataaboutwhethersexdifferencesinthetime
+Association [Nederlandse Vereniging voor Autisme
+of identification differ among the subtypes of autistic dis-
+(NVA)] to examine the experience of individuals with
+order, Asperger’s syndrome and PDD-NOS. Since average
+autismintheNetherlandsregardingdiagnosticprocedures,
+or above average IQ decrease the likelihood that females
+treatment, daily functioning and education. The survey
+will receive an ASD diagnosis, females with Asperger’s
+included 53 questions regarding a wide range of topics,
+syndrome may have a specific risk for late identification.
+including diagnostic process, treatment, residential situa-
+In the current study, we attempted to replicate findings
+tion, schooling and employment.
+regardingthedelayintheidentificationofASDinfemales
+in the US (Shattuck et al. 2009) by using data collected in
+Analysis
+the Netherlands, and extend prior findings by examining
+sex differences in the timing of ASD diagnosis by diag-
+A series of stepwise linear regression analyses was con-
+nostic subtype. We rely on a large national sample of
+ducted with age of diagnoses as the dependent variable.
+individuals with ASD to examine specific sex differences
+Current age was entered in the first step of the model,
+in the timing. We hypothesized that females with ASD
+followedbysexinthesecondstep,andageoffirstparental
+would receive their diagnosis at a later age than males. In
+concern in the third step. We analysed the child and adult
+addition, we hypothesized that this difference would be
+groups separatelybecauseofsecularchangesindiagnostic
+exacerbated among individuals with Asperger’s syndrome
+procedures and criteria.
+and PDD-NOS.
+123
+--- Page 3 ---
+JAutismDevDisord(2013)43:1151–1156 1153
+Table1 Detailsoftheparticipants’ageoffirstconcern,ageofASDdiagnosis,anddelaybetweenconcernanddiagnosis(means,SDs)
+Male Female
+N % Ageof Ageof Delaybetween N % Ageof Ageof Delaybetween
+first diagnosis ageoffirst first diagnosis ageoffirst
+concern concernand concern concernand
+diagnosis diagnosis
+Children(0–18years;n=1,354)
+Allcases 1,150 84.9 5.1(3.0) 6.6(3.0) 1.5(1.9) 204 15.1 5.5(3.6) 7.1(3.7) 1.6(2.1)
+Diagnosis
+Autisticdisorder 361 86.9 3.8(2.5) 5.3(2.8) 1.5(1.8) 55 13.1 3.6(2.8) 4.7(2.9) 1.1(1.5)
+Asperger’ssyndrome 277 90.6 6.5(3.1) 7.9(2.9) 1.4(1.8) 29 9.4 7.5(3.9) 9.7(3.5) 2.2(2.4)
+PDD-NOS 512 80.9 5.3(2.9) 6.8(2.8) 1.6(2.0) 120 19.1 5.9(3.6) 7.5(3.5) 1.7(2.3)
+Adults(18–85years;n=730)
+Allcases 547 74.9 16.7(15.6) 19.5(15.6) 2.8(5.4) 183 25.1 16.1(12.2) 19.3(12.1) 3.3(5.9)
+Diagnosis
+Autisticdisorder 127 76.5 12.8(15.0) 15.3(15.4) 5.0(15.4) 39 23.5 11.6(12.6) 16.2(13.2) 4.5(6.6)
+Asperger’ssyndrome 194 80.2 23.5(16.4) 26.4(16.1) 2.9(5.9) 48 19.8 22.9(12.7) 25.5(12.3) 2.6(4.8)
+PDD-NOS 226 70.2 13.1(13.2) 15.9(13.1) 2.8(5.1) 96 29.8 14.4(10.3) 17.6(10.6) 3.1(6.1)
+Results The adult group showed a wide variation in age of
+diagnosis, with 300 participants diagnosed younger than
+Basedonallparticipantsinthecurrentsample,theaverage 12 years, 142 who were diagnosed between 12 and
+time between first signs and identification was longer for 18 years, and 730 who were diagnosed when they were
+females(M = 2.3 year,SD4.4)thanmales(M = 1.9 year, olderthan18 years.However,nosexdifferencewasfound
+SD 3.5), F = 5.24, p\.05, g2 = .003. However, intheageofdiagnosesofadults,whenanalysedaccording
+(1, 2,082)
+this finding is difficult to interpret, given the influence of to whether they were diagnosed as children (0–12 years),
+current age on average age of diagnosis (adults versus adolescents (12–18 years) or adults ([18 years).
+children), with adults diagnosed an average of 12.76 years
+laterthanchildren(p\.001).Becauseonlyadultshadthe
+opportunity to be diagnosed at older ages, and unequal Conclusion
+followuptimescanbeproblematicinthistypeofresearch
+(Hertz-Picciotto and Delwiche 2009), we stratified the The current study confirmed that girls are identified later
+sample into child and adult groups, and controlled for than boys among children with Asperger’s syndrome. We
+current age in the analyses on both samples. found no delayed identification for girls with autistic dis-
+Within the child group, children with autism were orderorPDD-NOS.Incontrast,intheadultgroup,females
+diagnosed earliest (M = 5.2, SD = 2.9), followed by with autistic disorder were diagnosed later than males, but
+children with PDD-NOS (M = 6.9, SD = 3.0) and no delay was found for adult females with Asperger’s
+Asperger’s syndrome (M = 8.0, SD = 3.0; p\.001). syndrome of PDD-NOS. The age at first parental concern
+Among adults, there was no statistically significant asso- did not affect these sex differences, confirming findings
+ciation between diagnostic category and age of diagnosis. from the US (Giarelli et al. 2010). Also replicated was the
+In the child group, female sex was associated with a finding that the ASD diagnosis frequently occurred years
+1.8-year delay in age of diagnosis in the Asperger group, after the age at which the symptoms generally are evident
+DF = 14.67, p\.001, R2 = .36, f2 = .56. No effect (Barbaro and Dissanayake 2009), and on average 2 years
+(1,303)
+of sex on age of diagnosis was found in the PDD-NOS or after caregivers expressed concerns. Based on all partici-
+autisticdisordergroups.Intheadultgroup,femalesexwas pants in the current sample, the average time between first
+associated with a 4.3-year delay in age of diagnosis in signsandidentificationwasslightlylongerforfemalesthan
+the Autism group DF = 5.08, p\.05, R2 = .53, males,whichwasparticularlyduetodelayedidentification
+(1,163)
+f2 = 1.13.Therewasnoeffectofsexonageofdiagnosisin ofgirlswithAsperger’ssyndromeandwomenwithautistic
+the PDD-NOS or Asperger groups (See Table 1). These disorder.
+results persisted in analyses adjusting for age of first ThelaterdiagnosisofAsperger’ssyndromeingirlsthan
+parental concern. boysmayberelatedtothelategeneraltimingofdiagnosis
+123
+--- Page 4 ---
+1154 JAutismDevDisord(2013)43:1151–1156
+in Asperger’s, on average at 8 years of age, 1 year later symptoms may improve the diagnostic procedures (Kopp
+than children with PDDNOS (mean age of diagnosis of 7) and Gillberg 2011). Possible deviations in specific pre-
+and 3 years later than children with autism, who were sentation of social and verbal abilities in boys and girls
+diagnosed on average at around 5 years of age. The late withASD,aswellasvariationsinthefrequencyofspecific
+timingofAspergerdiagnosisiscompatiblewiththelackof types of co morbid disorders seem important topics to
+gender difference in the Fountain study, since they only consider. They may add to the explanation for the longer
+included children diagnosed between 2 and 8 years old delaybetweenparentalconcernanddiagnosisingirlswith
+(Fountain et al. 2011). Unfortunately, their finding of a Asperger’s syndrome.
+positive impact of socioeconomic status on the age of The current study has several limitations. Diagnostic
+diagnosis could not be validated in the current study since categories were based on self or parent report. The study
+we did not have this information. The specific delayed alsoreliedonrespondent’srecallaboutevents(suchasage
+diagnoses of girls with Asperger’s syndrome could be offirstsuspicion)thathappenedlongago,whichmayhave
+linked with IQ. While the exact relationship of delayed affected findings, especially in the adult group. Further-
+diagnosis with IQ, gender and ASD needs to be addressed more, there were differences in the proportion of ASD
+further (Rivet and Matson 2011b), recent practical guide- subtypesinthechildandadultgroups.Mostnotablytoour
+lines emphasize that both high verbal ability and female current findings, the proportion of females/males with
+sexmaycauseclinicianstofailintheirrecognitionofASD Asperger’syndromewas1/10inthechildcohort,but1/5in
+(Baird et al. 2011). This speaks to our current findings. In theadultcohort.Whilethesefindingscanbeexplainedbya
+addition, girls with ASD may deviate in their presentation delayed identification of Asperger’s syndrome in girls, the
+ofsocialproblems.Forinstance,arecentstudyshowedthat disproportionate number of girls warrants caution for the
+boys with ASD were more likely than girls to lack best interpretation of the current findings. Also, no information
+friends,whilegirlsontheotherhandmoreofteninteracted on ethnicity and socio-economic status (SES) was col-
+with younger children (Kopp and Gillberg 2011). Empiri- lected. SES (Emerson 2012) and ethnicity (Begeer et al.
+cal findings on these gender differences in social play 2009) may influence the timeliness ofASD diagnoses.We
+behaviour and other related gender differences in social are currently collecting longitudinal data including full
+and ritualistic behaviour (Holtmann et al. 2007) may be background information and direct diagnostic and cogni-
+used to improve early detection of girls with ASD. tive assessments. This will enable the replication of the
+Intheadultsample,autisticdisorderwasdiagnosedlater current findings.
+infemalesthaninmales.Thismayberelatedtoahistorical Despite these limitations, there are important implica-
+change in the diagnostic procedures. Of the adults with tionsrelatedtothecurrentdata,whichisamongthelargest
+autistic disorder, 23 % received their diagnosis prior to samplescollectedtodate(Giarellietal.2010).Thebenefits
+1987, compared to only 1 % of adults with Asperger’s of early identification of ASD autism have been widely
+syndrome and 3 % of adults with PDD-NOS. This means recognized, mainly to increase access to early intervention
+that relatively more adults with autistic disorder were and to decrease family stress (Wiggins et al. 2006; Filipek
+diagnosedaccordingtoDSM-IIIcriteria,whichweremore et al. 1999; Dawson 2008). As expected, the delayed
+specific than the broader criteriathat were introduced with identification particularly affected girls with Asperger’s
+the DSM-III-R in 1987 (Volkmar et al. 1988). Autistic syndrome. Strategies are needed to increase clinician’s
+disorders may thus have been suspected in girls much less sensitivity to improve recognition of PDDNOS and As-
+decadesago,justlikeAsperger’sdisorderissuspectedless perger’s syndrome in females. This goal can be achieved
+now. by alerting clinicians to a possible bias against diagnosing
+In both male and female individuals, autistic disorder autism in girls. The recently published recommendations
+was generally identified at the youngest ages, followed by from the National Institute for Health and Clinical Excel-
+PDD-NOS and Asperger’s syndrome. The early identifi- lence (NICE) from the UK (Baird et al. 2011), indeed
+cation of autistic disorder in both boys and girls is bene- includes the explicit recommendation that autism may be
+ficial to girls’ chances of receiving adequate treatment in under diagnosed in girls. Furthermore, diagnostic instru-
+time. However, the general delay in the identification of ments may be developed that are sensitive to ‘‘female’’
+PDD-NOS and Asperger’s syndrome is still problematic. presentations of ASD. The recently developed Autism
+The DSM-5 (www.dsm5.org) will likely integrate PDD- Spectrum Screening Questionnaire (ASSQ)-Revised
+NOS and Asperger’s syndrome into one Autism Spectrum Extended Version (ASSQ-REV; Kopp and Gillberg 2011)
+Disorder. While using a single spectrum that reflects the is an example of a parent questionnaire that may be better
+severity of pathology may still give rise to gender dispar- suitable for detecting ASD in girls, because some ques-
+ities, the subsequent development of dimensional instru- tionnaire items are more often endorsed in girls with ASD
+ments that are sensitive to female presentations of autistic than in boys. Both recent examples highlight possible
+123
+--- Page 5 ---
+JAutismDevDisord(2013)43:1151–1156 1155
+solutions to the currently reported delayed diagnoses of Hartley, S. L., & Sikora, D. M. (2009). Sex differences in autism
+girls with Asperger’s syndrome. spectrum disorder: An examination of developmental function-
+ing, autistic symptoms, and coexisting behaviour problems in
+toddlers. Journal of Autism and Developmental Disorders, 39,
+Acknowledgments This work was supported by Stichting Nuts
+1715–1722.
+Ohra [SNO-T-0702-78] and Fonds PGO [S03881/2007U01363/
+Hertz-Picciotto,I.,&Delwiche,L.(2009).Theriseinautismandthe
+TB07],TheNetherlands.
+roleofageatdiagnosis.Epidemiology,20,84–90.
+Holtmann, M., Bolte, S., & Poustka, F. (2007). Autism spectrum
+disorders: Sex differences in autistic behaviour domains and
+coexistingpsychopathology.DevelopmentalMedicineandChild
+References
+Neurology,49,361–366.
+Horovitz,M.,Matson,J.L.,&Sipes,M.(2011).Genderdifferences
+Baird, G., Douglas, H. R., & Murphy, M. S. (2011). GUIDELINES in symptoms of comorbidity in toddlers with ASD using the
+recognisinganddiagnosingautisminchildrenandyoungpeople: BISCUIT-Part 2. Developmental Neurorehabilitation, 14,
+SummaryofNICEguidance.BritishMedicalJournal,343,d6360. 94–100.
+Banach, R., Thompson, A., Szatmari, P., Goldberg, J., Tuff, L., Horovitz, M., Matson, J. L., Turygin, N., & Beighley, J. S. (2012).
+Zwaigenbaum, L., et al. (2009). Brief report: Relationship The relationship between gender and age of first concern in
+betweennon-verbalIQandgenderinautism.JournalofAutism toddlers with autism spectrum disorders. Research in Autism
+andDevelopmentalDisorders,39,188–193. SpectrumDisorders,6(1),466–471.
+Barbaro,J.,&Dissanayake,C.(2009).Autismspectrumdisordersin Klin,A.,Jones,W.,Schultz,R.,&Volkmar,F.(2003).Theenactive
+infancy and toddlerhood: A review of the evidence on early mind, or from actions to cognition: Lessons from autism.
+signs, early identification tools, and early diagnosis. Journal of Philosophical Transactions of the Royal Society of London.
+DevelopmentalandBehavioralPediatrics,30,447–459. SeriesB,Biologicalsciences,358,345–360.
+Begeer,S.,ElBouk,S.,Boussaid,W.,Terwogt,M.M.,&Koot,H. Kopp, S., & Gillberg, C. (2011). The autism spectrum screening
+M.(2009).Underdiagnosisandreferralbiasofautisminethnic questionnaire (ASSQ)-revised extended version (ASSQ-REV):
+minorities.JournalofAutismandDevelopmentalDisorders,39, An instrument for better capturing the autism phenotype in
+142–148. girls? A preliminary study involving 191 clinical cases and
+Carter,A.S.,Black,D.O.,Tewani,S.,Connolly,C.E.,Kadlec,M. community controls. Research in Developmental Disabilities,
+B., & Tager-Flusberg, H. (2007). Sex differences in toddlers 32,2875–2888.
+with autism spectrum disorders. Journal of Autism and Devel- Lord, C. (1995). Follow-up of two-year-olds referred for possible
+opmentalDisorders,37,86–97. autism. Journal of Child Psychology and Psychiatry, 36,
+Centers for Disease Control and Prevention. (2012). Prevalence of 1365–1382.
+autismspectrumdisorders–autismanddevelopmentaldisabilities Lord, C., Schopler, E., & Revicki, D. (1982). Sex-differences in
+monitoringnetwork,UnitedStates,2008.MMWR,61,1–19. autism. Journal of Autism and Developmental Disorders, 12,
+Centraal Bureau voor de Statistiek. (2008). Provincie op maat. 317–330.
+DenHaag:CBS. Mandell, D. S., Novak, M. M., & Zubritsky, C. D. (2005). Factors
+Crick, N. R., & Zahn-Waxler, C. (2003). The development of associated with age of diagnosis among children with autism
+psychopathology in females and males: Current progress and spectrumdisorders.Pediatrics,116,1480–1486.
+future challenges. Development and Psychopathology, 15, Mayes, S. D., & Calhoun, S. L. (2011). Impact of IQ, age, SES,
+719–742. gender, and race on autistic symptoms. Research in Autism
+Dawson, G. (2008). Early behaviorial intervention, brain plasticity, SpectrumDisorders,5,749–757.
+and the prevention of autism spectrum disorder. Development McLennan,J.D.,Lord,C.,&Schopler,E.(1993).Sex-differencesin
+andPsychopathology,20,775–803. higher functioning people with autism. Journal of Autism and
+Emerson, E. (2012). Deprivation, ethnicity and the prevalence of DevelopmentalDisorders,23(2),217–227.
+intellectualanddevelopmental disabilities.JournalofEpidemi- NederlandseVerenigingvoorAutisme(NVA).(2008).Eenplekomte
+ologyandCommunityHealth,66,218–224. leven. Een onderzoek naar de leefsituatie van mensen met
+Filipek,P.A.,Accardo,P.J.,Baranek,G.T.,Cook,E.H.,Dawson, autisme(Aplacetolive.Astudyonthedailycircumstancesof
+G., Gordon, B., et al. (1999). The screening and diagnosis of individualwithautism).Bilthoven:NVA.
+autisticspectrumdisorders.JournalofAutismandDevelopmen- Ouellette-Kuntz,H.M.J.,Coo,H.,Lam,M.,Yu,C.T.,Breitenbach,
+talDisorders,29,439–484. M. M., Hennessey, P. E., et al. (2009). Age at diagnosis of
+Fombonne, E. (2003). Epidemiological surveys of autism and other autismspectrumdisordersinfourregionsofCanada.Canadian
+pervasive developmental disorders: An update. Journal of JournalofPublicHealth-RevueCanadiennedeSantePublique,
+AutismandDevelopmentalDisorders,33,365–382. 100,268–273.
+Fountain,C.,King,M.D.,&Bearman,P.S.(2011).Ageofdiagnosis Reichow, B. (2012). Overview of meta-analyses on early intensive
+for autism: Individual and community factors across 10 birth behavioralinterventionforyoungchildrenwithautismspectrum
+cohorts. Journal of Epidemiology and Community Health, 65, disorders.Journal ofAutismandDevelopmental Disorders,42,
+503–510. 512–520.
+Fujiwara, T., Okuyama, M., & Funahashi, K. (2011). Factors Rivet, T. T., & Matson, J. L. (2011a). Gender differences in core
+influencing time lag between first parental concern and first symptomatology in autism spectrum disorders across the
+visit to child psychiatric services in children with autism lifespan. Journal of Developmental and Physical Disabilities,
+spectrum disorders in Japan. Research in Autism Spectrum 23,399–420.
+Disorders,5,584–591. Rivet,T.T.,&Matson,J.L.(2011b).Reviewofgenderdifferencesin
+Giarelli, E., Wiggins, L. D., Rice, C. E., Levy, S. E., Kirby, R. S., coresymptomatologyinautismspectrumdisorders.Researchin
+Pinto-Martin,J.,etal.(2010).Sexdifferencesintheevaluation AutismSpectrumDisorders,5(3),957–976.
+and diagnosis of autism spectrum disorders among children. Shattuck,P.T.,Durkin,M.,Maenner,M.,Newschaffer,C.,Mandell,
+DisabilityandHealthJournal,3,107–116. D.S.,Wiggins,L.,etal.(2009).Timingofidentificationamong
+123
+--- Page 6 ---
+1156 JAutismDevDisord(2013)43:1151–1156
+children with an autism spectrum disorder: Findings from a Wiggins,L.D.,Baio,J.,&Rice,C.(2006).Examinationofthetime
+population-based surveillance study. Journal of the American betweenfirstevaluationandfirstautismspectrumdiagnosisina
+AcademyofChildandAdolescentPsychiatry,48,474–483. population-basedsample.JournalofDevelopmentalandBehav-
+Volkmar,F.R.,Bregman,J.,Cohen,D.J.,&Cicchetti,D.V.(1988). ioralPediatrics,27,S79–S87.
+Dsm-IiiandDsm-Iii-Rdiagnosesofautism.AmericanJournalof Wing, L. (1981). Sex-ratios in early-childhood autism and related
+Psychiatry,145,1404–1408. conditions.PsychiatryResearch,5,129–137.
+123

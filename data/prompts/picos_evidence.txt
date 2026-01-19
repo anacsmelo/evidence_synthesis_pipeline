@@ -1,0 +1,11 @@
+Utilizando apenas as informações contidas nos estudos fornecidos abaixo, gere uma síntese de evidência estruturada de acordo com o framework PICOS.
+
+Para cada componente:
+- Resuma as evidências explicitamente reportadas.
+- Não interprete resultados.
+- Não avalie qualidade metodológica nem risco de viés.
+- Não apresente conclusões.
+
+Caso algum elemento do PICOS não esteja explicitamente descrito, escreva: "Não reportado".
+
+Mantenha tom científico, objetivo e impessoal.

@@ -1,0 +1,26 @@
+Sua tarefa é produzir uma síntese de evidência estritamente estruturada segundo o framework PICOS, utilizando apenas as informações explicitamente descritas nos estudos fornecidos.
+
+Para cada seção abaixo, extraia e resuma exclusivamente o que está reportado:
+
+Population:
+- Descreva as características da população estudada.
+
+Intervention:
+- Descreva a(s) intervenção(ões) avaliada(s).
+
+Comparator:
+- Descreva o(s) comparador(es), quando houver.
+
+Outcomes:
+- Descreva os desfechos reportados.
+
+Study design:
+- Descreva o(s) desenho(s) do estudo.
+
+Restrições:
+- Não infira informações ausentes.
+- Não mescle seções.
+- Não inclua conclusões ou recomendações.
+- Caso a informação não esteja disponível, escreva: "Não reportado".
+
+Utilize linguagem acadêmica formal.

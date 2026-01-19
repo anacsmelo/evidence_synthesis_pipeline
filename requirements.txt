@@ -1,0 +1,20 @@
+# Core LLM API (OpenRouter compatible)
+openai>=1.0.0
+
+# Configuration and data handling
+pyyaml
+python-dotenv
+
+# PDF processing
+pdfplumber
+
+# Data analysis and evaluation
+pandas
+numpy
+scikit-learn
+
+# Visualization (results and figures)
+matplotlib
+
+# Notebooks (exploratory analysis only)
+jupyter

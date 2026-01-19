@@ -1,0 +1,28 @@
+model,prompt_version,run_id,clarity,fidelity,methodological_comments,population_score,population_explicit,intervention_score,intervention_explicit,comparator_score,comparator_explicit,outcomes_score,outcomes_explicit,study_design_score,study_design_explicit,total_picos_score
+deepseek_deepseek-r1-0528:free,picos_baseline,1,1,1,Estrutura PICOS parcialmente respeitada; omissão recorrente de Intervenção; desfechos descritos de forma geral.,2,True,2,True,2,True,2,True,1,True,9
+deepseek_deepseek-r1-0528:free,picos_baseline,2,0,0,Quebra de paralelismo entre componentes; perda de detalhamento em Outcomes; inconsistência intergerações.,0,False,0,False,0,False,0,False,0,False,0
+deepseek_deepseek-r1-0528:free,picos_baseline,3,1,0,"População e Comparador identificados, mas com variação conceitual; baixa estabilidade estrutural.",2,True,2,True,2,True,2,True,2,True,10
+deepseek_deepseek-r1-0528:free,picos_evidence,1,2,1,Maior granularidade factual; melhora em Outcomes; ainda dependente do prompt para manter coerência.,1,False,1,False,1,False,1,False,0,False,4
+deepseek_deepseek-r1-0528:free,picos_evidence,2,1,1,"Conteúdo factual correto, porém com omissões seletivas; estabilidade apenas parcial.",1,False,1,False,1,False,1,False,1,False,5
+deepseek_deepseek-r1-0528:free,picos_evidence,3,2,1,"Boa descrição dos desfechos e subgrupos; Intervenção corretamente omitida, mas sem justificativa explícita.",1,False,1,False,1,False,1,False,1,False,5
+deepseek_deepseek-r1-0528:free,picos_structured,1,2,2,Síntese estruturalmente alinhada ao PICOS; baixa variabilidade; comportamento metodológico aceitável.,2,True,2,True,2,True,2,True,2,True,10
+deepseek_deepseek-r1-0528:free,picos_structured,2,2,2,Consistência entre componentes; fidelidade elevada ao corpus; ausência de inferência indevida.,1,False,1,False,1,False,1,False,1,False,5
+deepseek_deepseek-r1-0528:free,picos_structured,3,2,2,Run estável e reprodutível; adequada como ferramenta auxiliar sob supervisão humana.,2,True,2,True,2,True,2,True,2,True,10
+openai_gpt-oss-120b:free,picos_baseline,1,1,1,Estrutura PICOS preservada mesmo com prompt simples; menor variabilidade que deepseek.,2,True,2,True,2,True,2,True,0,False,8
+openai_gpt-oss-120b:free,picos_baseline,2,1,1,Boa identificação de População e Desfechos; leve perda de detalhamento em subgrupos.,2,True,2,True,2,True,2,True,2,True,10
+openai_gpt-oss-120b:free,picos_baseline,3,1,1,"Comportamento consistente; ausência de alucinação, mas síntese superficial.",2,True,2,True,2,True,2,True,2,True,10
+openai_gpt-oss-120b:free,picos_evidence,1,2,2,2 completude estrutural; desfechos bem delimitados; excelente aderência às instruções.,1,False,1,False,1,False,1,False,0,False,4
+openai_gpt-oss-120b:free,picos_evidence,2,2,2,Estabilidade intergerações; granularidade factual uniforme; comportamento metodológico sólido.,1,False,1,False,1,False,1,False,1,False,5
+openai_gpt-oss-120b:free,picos_evidence,3,2,2,Run praticamente idêntico aos anteriores; indica convergência estrutural.,0,False,0,False,0,False,1,False,0,False,1
+openai_gpt-oss-120b:free,picos_structured,1,2,2,Modelo demonstra internalização funcional do PICOS; síntese clara e reprodutível.,2,True,2,True,2,True,2,True,2,True,10
+openai_gpt-oss-120b:free,picos_structured,2,2,2,Máxima estabilidade observada; adequado para uso sistemático assistido.,1,False,1,False,1,False,1,False,1,False,5
+openai_gpt-oss-120b:free,picos_structured,3,2,2,Comportamento invariável entre runs; baixo risco metodológico.,1,False,1,False,1,False,1,False,1,False,5
+qwen_qwen3-4b:free,picos_baseline,1,0,0,Resposta truncada; estrutura PICOS incompleta; quebra de continuidade lógica.,2,True,1,True,0,False,0,False,0,False,3
+qwen_qwen3-4b:free,picos_baseline,2,1,0,"População descrita, mas outcomes genéricos; ausência de paralelismo entre componentes.",1,True,0,False,0,False,0,False,0,False,1
+qwen_qwen3-4b:free,picos_baseline,3,0,0,2 instabilidade; perda de informações essenciais; baixa confiabilidade.,2,True,1,True,1,True,2,True,2,True,8
+qwen_qwen3-4b:free,picos_evidence,1,1,1,Melhora pontual na clareza; reinterpretação espontânea de Intervenção.,1,False,1,False,1,False,1,False,1,False,5
+qwen_qwen3-4b:free,picos_evidence,2,2,1,Run isolado com boa estrutura; não reproduzido em execuções subsequentes.,1,False,1,False,1,False,1,False,1,False,5
+qwen_qwen3-4b:free,picos_evidence,3,0,0,Colapso estrutural; inconsistência conceitual entre componentes.,1,False,1,False,1,False,1,False,0,False,4
+qwen_qwen3-4b:free,picos_structured,1,1,0,Estrutura parcialmente respeitada; instabilidade epistemológica persistente.,2,True,0,False,0,False,0,False,0,False,2
+qwen_qwen3-4b:free,picos_structured,2,0,0,Alta variabilidade mesmo com prompt estruturado; baixa fidelidade metodológica.,2,True,2,True,2,True,2,True,2,True,10
+qwen_qwen3-4b:free,picos_structured,3,1,0,"Resposta plausível linguisticamente, porém não reprodutível.",2,True,0,False,0,False,0,False,0,False,2

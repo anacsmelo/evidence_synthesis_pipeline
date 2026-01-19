@@ -1,0 +1,18 @@
+Com base exclusivamente nos estudos fornecidos abaixo, gere uma síntese de evidência estruturada segundo o framework PICOS.
+
+A saída DEVE conter obrigatoriamente as seguintes seções, nesta ordem exata:
+
+Population:
+Intervention:
+Comparator:
+Outcomes:
+Study design:
+
+Regras:
+- Utilize apenas informações explicitamente presentes no corpus fornecido.
+- Não utilize conhecimento externo nem faça suposições.
+- Não explique seu raciocínio.
+- Não inclua interpretações, discussões ou conclusões.
+- Caso algum componente não esteja claramente descrito nos estudos, escreva explicitamente: "Não reportado".
+
+Utilize linguagem clara, objetiva e acadêmica.
